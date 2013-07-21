@@ -1,7 +1,7 @@
-nodebasics
-==========
+Node JS - Repo
+by A.Kiran Kumar
 
-Node Basics
+This Repository gives the basic approach for the basics of nodejs and you can run along with code for a basic learning.
 
-This is the Repo which can br used learn node.js basics and thi includes express.js also which can be used in practise 
-those technologies.
+Install Node JS and run the node js file to run the apps
+
